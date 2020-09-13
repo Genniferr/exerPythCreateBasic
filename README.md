@@ -35,3 +35,7 @@
   * Enter a commit message in the message field and click the checkmark to commit the change.
   * Click on the 3 dots for more actions and select Sync. This will push the updated file to your GitHub repository.
   * Submit the link to your GitHub repository on Canvas.
+
+print('Welcome!')
+name = input('Gennifer: ')
+print('Hello, ' + name)
